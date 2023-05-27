@@ -1,0 +1,8 @@
+.whb-sticked .whb-general-header .wd-dropdown {margin-top: 38px;}
+.whb-sticked .whb-general-header .wd-dropdown:after {height: 48px;}
+@media (min-width: 1025px) {.whb-general-header-inner {height: 90px;max-height: 90px;}
+	.whb-sticked .whb-general-header-inner {height: 116px;max-height: 116px;}}
+@media (max-width: 1024px) {.whb-general-header-inner {height: 60px;max-height: 60px;}}
+.whb-top-bar {background-color: rgba(39,0,243,1);}
+.whb-general-header {border-color: rgba(129,129,129,.2);border-bottom-width: 1px;border-bottom-style: solid;}
+.whb-header-bottom {border-bottom-width: 0px;border-bottom-style: solid;}

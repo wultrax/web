@@ -1,0 +1,32 @@
+.wd-popup.wd-promo-popup {background-color: #111;background-image: url("https://wultrax.github.io/web/wp-content/uploads/2021/08/promo-popup.jpg");background-repeat: no-repeat;background-size: cover;background-position: center center;}
+.page-title-default {background-color: #f9f9f9;background-image: none;background-size: cover;background-position: center center;}
+.footer-container {background-color: #f9f9f9;background-image: none;}
+:root {--wd-text-font: "Lato",Arial,Helvetica,sans-serif;--wd-text-font-weight: 400;--wd-text-color: #777;--wd-text-font-size: 14px;}
+:root {--wd-title-font: "Roboto",Arial,Helvetica,sans-serif;--wd-title-font-weight: 500;--wd-title-color: #242424;}
+:root {--wd-entities-title-font: "Roboto",Arial,Helvetica,sans-serif;--wd-entities-title-font-weight: 400;--wd-entities-title-color: #333;}
+:root {--wd-alternative-font: "Lato",Arial,Helvetica,sans-serif;}
+:root {--wd-widget-title-font: "Roboto",Arial,Helvetica,sans-serif;--wd-widget-title-font-weight: 500;--wd-widget-title-transform: uppercase;--wd-widget-title-color: #333;--wd-widget-title-font-size: 16px;}
+:root {--wd-header-el-font: "Lato",Arial,Helvetica,sans-serif;--wd-header-el-font-weight: 700;--wd-header-el-transform: uppercase;--wd-header-el-font-size: 13px;}
+:root {--wd-primary-color: #515151;}
+:root {--wd-alternative-color: #898989;}
+:root {--wd-link-color: #333;--wd-link-color-hover: #242424;}
+:root {--btn-default-bgcolor: #f7f7f7;}
+:root {--btn-default-bgcolor-hover: #efefef;}
+:root {--btn-shop-bgcolor: #353535;}
+:root {--btn-shop-bgcolor-hover: #9b9b9b;}
+:root {--btn-accent-bgcolor: #282828;}
+:root {--btn-accent-bgcolor-hover: #282828;}
+:root {--notices-success-bg: #459647;}
+:root {--notices-success-color: #fff;}
+:root {--notices-warning-bg: #e0b252;}
+:root {--notices-warning-color: #fff;}
+.product-labels .product-label.onsale {background-color: #e8e8e8;}
+.product-labels .product-label.onsale {color: #2d2d2d;}
+:root {--wd-form-brd-radius: 35px;--wd-form-brd-width: 2px;--btn-default-color: #333;--btn-default-color-hover: #333;--btn-shop-color: #fff;--btn-shop-color-hover: #fff;--btn-accent-color: #fff;--btn-accent-color-hover: #fff;--btn-default-brd-radius: 5px;--btn-default-box-shadow: none;--btn-default-box-shadow-hover: none;--btn-shop-brd-radius: 5px;--btn-shop-box-shadow: none;--btn-shop-box-shadow-hover: none;--btn-accent-brd-radius: 0px;--btn-accent-box-shadow: none;--btn-accent-box-shadow-hover: none;--btn-accent-box-shadow-active: none;--btn-accent-bottom: 0px;--wd-brd-radius: 0px;}
+@media (min-width: 1025px) {.whb-boxed:not(.whb-sticked):not(.whb-full-width) .whb-main-header {max-width: 1570px;}}
+.container {max-width: 1600px;}
+:root {--wd-container-width: 1600px;}
+@media (min-width: 1600px) {[data-vc-full-width]:not([data-vc-stretch-content]) {padding-left: calc(( 100vw - 1600px - var(--wd-scroll-w) ) / 2);padding-right: calc(( 100vw - 1600px - var(--wd-scroll-w) ) / 2);}}
+div.wd-popup.wd-promo-popup {max-width: 800px;}
+.woodmart-woocommerce-layered-nav .wd-scroll-content {max-height: 223px;}
+@font-face {font-weight: normal;font-style: normal;font-family: "woodmart-font";src: url("//localhost/plantilla/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=7.0.0") format("woff2");}
